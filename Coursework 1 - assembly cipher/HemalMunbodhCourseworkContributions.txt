@@ -1,0 +1,12 @@
+Name: Hemal Munbodh
+Student Number: 100246776
+Contributions
+- String Length 
+- Euclid test for co-prime string length
+- Modulo function and modulo logic
+- Encode logic
+- Decode logic
+- FullEncode
+- FullDecode
+- Main 
+Appreciated the sheer collaboration effort of my partner

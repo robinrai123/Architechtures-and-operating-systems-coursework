@@ -1,0 +1,12 @@
+Robin Rai – 100242165
+Contributions
+       Euclid test (gcd function and co prime test)
+       Mod function and logic
+       Encode logic and function
+       Decode logic and function
+       Full encode function
+       Full decode function
+       Full encode function
+Full decode function
+       Main
+Partner is nutty. 10/10 would pair up for a third time
